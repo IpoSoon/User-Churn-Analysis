@@ -5,7 +5,7 @@
 * Understanding the reasons why users churn can help companies develop strategies to retain their customers and improve their overall product or service.
 * The dataset includes a **dim table** containing information about users of a telecommunications network company, including fields of demographic information and information related to the **user's churn**.
 ### 2. Data Dictionary
-![image](https://user-images.githubusercontent.com/101726623/235168099-c6560317-1a36-41eb-a320-2f5d5f68eea3.png)
+![image](https://user-images.githubusercontent.com/101726623/235169073-19d9f2bf-781c-4edf-902f-6182f0dbece6.png)
 ### 3. Requirement of the Project
 ## II. Design Thinking Method
 ## III. Visualization
