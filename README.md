@@ -6,7 +6,9 @@
 * The dataset includes a **dim table** containing information about users of a telecommunications network company, including fields of demographic information and information related to the **user's churn**.
 ### 2. Data Dictionary
 ![image](https://user-images.githubusercontent.com/101726623/235169073-19d9f2bf-781c-4edf-902f-6182f0dbece6.png)
-### 3. Requirement of the Project
+### 3. Business Questions
+* Create an overview dashboard for managers that displays the churn status of users and helps identify which users are part of the churn group.
+* Develop solutions to improve the situation and reduce user churn.
 ## II. Design Thinking Method
 ## III. Visualization
 ### 1. Customer churn overview
