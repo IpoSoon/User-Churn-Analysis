@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/101726623/235357284-5e2e56fd-40c7-48c0-a52f-5a5dc8030405.png)
 
 ### Step 2 - Define
-![image](https://user-images.githubusercontent.com/101726623/235357890-a16acf47-90e9-4d27-9ee9-2dcf6bc79c6a.png)
+![image](https://user-images.githubusercontent.com/101726623/235357970-3e02bcbd-41f2-45e4-9d00-68c633991a1f.png)
 
 ### Step 3 - Ideate
 ![image](https://user-images.githubusercontent.com/101726623/235357450-4dbcdbdf-eff6-4c30-8d54-799ff874ddcb.png)
