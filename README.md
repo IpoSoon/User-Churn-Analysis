@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/101726623/235357284-5e2e56fd-40c7-48c0-a52f-5a5dc8030405.png)
 
 ### Step 2 - Define
-![image](https://user-images.githubusercontent.com/101726623/235357970-3e02bcbd-41f2-45e4-9d00-68c633991a1f.png)
+![image](https://user-images.githubusercontent.com/101726623/235358015-2a391a13-ec5f-421d-91b6-0df8b2af3fcf.png)
 
 ### Step 3 - Ideate
 ![image](https://user-images.githubusercontent.com/101726623/235357450-4dbcdbdf-eff6-4c30-8d54-799ff874ddcb.png)
@@ -31,7 +31,7 @@
 ![image](https://user-images.githubusercontent.com/101726623/235357781-bbcb4924-da08-4c5f-ae80-6be9e28d28d4.png)
 
 ### 2. Age, ayment method, contract and charges
-![image](https://user-images.githubusercontent.com/101726623/235357804-1083fd4e-3125-4bdd-9a18-1260be21a7e5.png)
+![image](https://user-images.githubusercontent.com/101726623/235357989-ab6cd548-8070-4b53-836d-1a07bc8e708e.png)
 
 ### 3. Customer Service Problems
 ![image](https://user-images.githubusercontent.com/101726623/235357815-7d44f7a4-73e1-4f70-afed-72200abb5b21.png)
