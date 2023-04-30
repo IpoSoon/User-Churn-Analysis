@@ -28,16 +28,16 @@
 
 ## III. Visualization
 ### 1. Customer churn overview
-![image](https://user-images.githubusercontent.com/101726623/235357629-28aa5577-284a-450f-9c34-7d218127217a.png)
+![image](https://user-images.githubusercontent.com/101726623/235357781-bbcb4924-da08-4c5f-ae80-6be9e28d28d4.png)
 
 ### 2. Age, ayment method, contract and charges
-![image](https://user-images.githubusercontent.com/101726623/235357655-ba0f28a6-7e4b-4c76-9d3d-f6eebd1fcd1e.png)
+![image](https://user-images.githubusercontent.com/101726623/235357804-1083fd4e-3125-4bdd-9a18-1260be21a7e5.png)
 
 ### 3. Customer Service Problems
-![image](https://user-images.githubusercontent.com/101726623/235357686-be0878fd-b71a-43c1-a060-4defeaf4154e.png)
+![image](https://user-images.githubusercontent.com/101726623/235357815-7d44f7a4-73e1-4f70-afed-72200abb5b21.png)
 
 ### 4. Monthly GB download and Extra charges
-![image](https://user-images.githubusercontent.com/101726623/235357701-ef3f4c34-fca2-46f6-924f-f32186efcdda.png)
+![image](https://user-images.githubusercontent.com/101726623/235357829-05f48376-a3c3-47a1-ac59-4aec3f451f77.png)
 
 ## IV. Insights
 ## V. Recommendations
