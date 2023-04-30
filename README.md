@@ -18,7 +18,7 @@
 ![image](https://user-images.githubusercontent.com/101726623/235357304-034a915a-2adf-44fc-97c2-325fa35484fe.png)
 
 ### Step 3 - Ideate
-![image](https://user-images.githubusercontent.com/101726623/235357342-f25e7ad9-e43c-4de7-b593-3973a4b07aa2.png)
+![image](https://user-images.githubusercontent.com/101726623/235357450-4dbcdbdf-eff6-4c30-8d54-799ff874ddcb.png)
 
 ### Step 4 - Prototype
 ![image](https://user-images.githubusercontent.com/101726623/235357373-b7f1802f-e3b8-459e-b1d9-244231c66c53.png)
