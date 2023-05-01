@@ -1,5 +1,3 @@
-# readme.md
-
 # [POWER BI] User Churn Analysis
 
 ## I. Introduction
