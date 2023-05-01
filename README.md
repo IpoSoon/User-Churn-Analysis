@@ -37,7 +37,7 @@
 
 ![https://user-images.githubusercontent.com/101726623/235357373-b7f1802f-e3b8-459e-b1d9-244231c66c53.png](https://user-images.githubusercontent.com/101726623/235357373-b7f1802f-e3b8-459e-b1d9-244231c66c53.png)
 
-### Step 5 - Step 5 - Review
+### Step 5 - Review
 
 ![https://user-images.githubusercontent.com/101726623/235357385-b0d208b7-5f27-462a-9473-576e59efe14c.png](https://user-images.githubusercontent.com/101726623/235357385-b0d208b7-5f27-462a-9473-576e59efe14c.png)
 
